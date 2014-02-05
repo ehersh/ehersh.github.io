@@ -42,6 +42,7 @@ h5 {
 }
 
 .content {
+	margin-left: 100px;
 	float: right;
 	width: 80%;
 }
