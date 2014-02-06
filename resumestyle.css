@@ -46,8 +46,9 @@ h5 {
 }
 
 h6 {
-	line-height: 1px;
+	line-height: normal;
 }
+
 
 .section {
 	float: left;
