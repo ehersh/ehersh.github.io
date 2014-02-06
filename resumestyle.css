@@ -53,6 +53,12 @@ h6 {
 	line-height: normal;
 }
 
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+}
+
 .section {
 	float: left;
 	border-bottom: 1px solid #ccc;
