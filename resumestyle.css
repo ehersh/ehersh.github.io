@@ -30,12 +30,16 @@ h3 {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size:95%;
+	line-height: normal;
+
 }
 
 h4 {
 	text-align: left;
 	top: 0px;
 	font-size: 83%;
+	line-height: normal;
+
 }
 
 h5 {
