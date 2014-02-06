@@ -1,4 +1,4 @@
-body, div, h1, h2, h3, h4, h5 p {
+body, div, h1, h2, h3, h4, h5 h6 p {
 	margin: 0;
 	padding: 0;
 }
@@ -23,9 +23,14 @@ h2 {
 	font-size: 150%;
 }
 
-h3 {
+h3, h6 {
 	text-align: left;
 	color: #333;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 h4 {
