@@ -63,7 +63,11 @@ ul {
 }
 
 table {
-	border: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px;
+	border-top: 1px;
+	border-collapse: collapse;
 	width: 100%;
 }
 
