@@ -16,12 +16,14 @@ h1 {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	top: 0px;
+	color: DarkSeaGreen;
 }
 
 h2 {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 150%;
+	color: DarkOliveGreen;
 }
 
 h3 {
@@ -63,4 +65,8 @@ ul {
 table {
 	border: 0px;
 	width: 100%;
+}
+
+td {
+	padding: 15px;
 }
