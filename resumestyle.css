@@ -70,4 +70,5 @@ tr {
 
 td {
 	vertical-align: top;
+	border-right-width: 10px;
 }
