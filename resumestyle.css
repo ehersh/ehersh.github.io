@@ -9,7 +9,6 @@ body {
 	font-weight: normal;
 	color: #444;
 	text-align: left;
-	vertical-align: top;
 }
 
 h1 {
@@ -28,6 +27,8 @@ h2 {
 	letter-spacing: 2px;
 	font-size: 150%;
 	color: #556B2F;
+	vertical-align: text-top;
+
 }
 
 h3 {
